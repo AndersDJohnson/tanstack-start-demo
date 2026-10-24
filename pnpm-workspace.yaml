@@ -7,6 +7,10 @@ permissions:
     skills: true
   '@tanstack/react-start':
     skills: true
+  drizzle-kit:
+    skills: true
+  esbuild:
+    build: true
 skills:
   dirs:
     - .github/skills
